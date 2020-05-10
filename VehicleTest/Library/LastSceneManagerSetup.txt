@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/CityScene.unity
+  isLoaded: 1
+  isActive: 1
