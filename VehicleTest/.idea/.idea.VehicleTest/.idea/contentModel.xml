@@ -2,22 +2,38 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\Dean Ryan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Dean Ryan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VehicleTest.1239216498.00" t="ExcludeRecursive" />
-    <e p="C:\Users\Dean Ryan\Desktop\NewGithub\VehicleTest" t="IncludeRecursive">
+    <e p="C:\Users\Dean Ryan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VehicleTest.1712654956.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dean Ryan\Documents\GitHub\TrafficFlowSystem\VehicleTest" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets\Scripts" t="Include">
-        <e p="CameraController.cs" t="Include" />
-        <e p="Car.cs" t="Include" />
-        <e p="Globals.cs" t="Include" />
-        <e p="Master.cs" t="Include" />
-        <e p="ObjectPooling.cs" t="Include" />
-        <e p="Player.cs" t="Include" />
-        <e p="RoadCreator.cs" t="Include" />
-        <e p="Scene.cs" t="Include" />
-        <e p="TrafficControl.cs" t="Include" />
-        <e p="UiController.cs" t="Include" />
-        <e p="UiManager.cs" t="Include" />
-        <e p="VechicleEnd.cs" t="Include" />
+        <e p="CarSystem" t="Include">
+          <e p="Car.cs" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="Camera" t="Include">
+            <e p="CameraController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Player" t="Include">
+          <e p="Player.cs" t="Include" />
+        </e>
+        <e p="SceneController" t="Include">
+          <e p="RoadCreator.cs" t="Include" />
+          <e p="VechicleEnd.cs" t="Include" />
+        </e>
+        <e p="system" t="Include">
+          <e p="Globals.cs" t="Include" />
+          <e p="Master.cs" t="Include" />
+          <e p="Scene.cs" t="Include" />
+        </e>
+        <e p="TrafficSystem" t="Include">
+          <e p="ObjectPooling.cs" t="Include" />
+          <e p="TrafficControl.cs" t="Include" />
+        </e>
+        <e p="UI" t="Include">
+          <e p="UiController.cs" t="Include" />
+          <e p="UiManager.cs" t="Include" />
+        </e>
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="packages" t="ExcludeRecursive" />
